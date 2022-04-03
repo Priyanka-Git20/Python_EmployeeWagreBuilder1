@@ -6,4 +6,4 @@
 @Title : Printing the welcome message.
 '''
 
-print("Welcome to the employee wage computation program")
+print("Welcome to the employee wage computation program.")
